@@ -1,0 +1,72 @@
+{
+  "Journal": [
+    {
+      "Titile": "Is autonomation appropriate? : Semi-autonomous Telepresence Architecture by Focusing on Voluntary and Involuntary Movements", 
+      "Authors": [
+        {"FirstName": "Masahiko", "LastName": "Osawa" },
+        {"FirstName": "Kohei", "LastName": "Okuoka" },
+        {"FirstName": "Yusuke", "LastName": "Takimoto" },
+        {"FirstName": "Michita", "LastName": "Imai" }
+      ],
+      "Journal": "International Journal of Social Robotics", 
+      "Volume": 12, 
+      "Number": 5, 
+      "Pages": "1119-1134",
+      "PublishedDate" : {"Year" : 2020, "Month" : 2, "Day" : 1},
+      "DOI" : "https://doi.org/10.1007/s12369-020-00620-5",
+      "Lang": "English"
+    },
+    {
+      "Titile": "遠隔操作と自律操作を適応的に切り替える半自律テレプレゼンスロボットアーキテクチャ", 
+      "Authors": [
+        {"FirstName": "耕平", "LastName": "奥岡" },
+        {"FirstName": "正彦", "LastName": "大澤" },
+        {"FirstName": "倫太", "LastName": "今井" }
+      ],
+      "Journal": "人工知能学会論文誌", 
+      "Volume": 36, 
+      "Number": 2, 
+      "Pages": "D-K47_1-12",
+      "PublishedDate" : {"Year" : 2021, "Month" : 3, "Day" : 1},
+      "DOI" : "https://doi.org/10.1527/tjsai.36-2_D-K47",
+      "Lang": "Japanese"
+    },
+    {
+      "Titile": "Multi-device trust transfer: Can trust be transferred among multiple devices?", 
+      "Authors": [
+        {"FirstName": "Kohei", "LastName": "Okuoka" },
+        {"FirstName": "Kouichi", "LastName": "Enami" },
+        {"FirstName": "Mitsuhiko", "LastName": "Kimoto" },
+        {"FirstName": "Michita", "LastName": "Imai" }
+      ],
+      "Journal": "Frontiers in Psychology ", 
+      "PublishedDate" : {"Year" : 2022, "Month" : 8, "Day" : 3},
+      "DOI" : "https://doi.org/10.3389/fpsyg.2022.920844",
+      "Lang": "English"
+    }
+  ],
+  "InternationalConference": [
+    {
+      "Titile": "Semi-Autonomous Telepresence Robot for Adaptively Switching Operation using Inhibition and Disinhibition Mechanism", 
+      "Authors": [
+        {"FirstName": "Kohei", "LastName": "Okuoka" },
+        {"FirstName": "Yusuke", "LastName": "Takimoto" },
+        {"FirstName": "Masahiko", "LastName": "Osawa" },
+        {"FirstName": "Michita", "LastName": "Imai" }
+      ],
+      "BookTitle": "Proceedings of the 6th International Conference on Human-Agent Interaction",
+      "ConferenceShort": "HAI2018",
+      "City" : "",
+      "Country": "UK",
+      "Pages": "167-175",
+      "PublishedDate" : {"Year" : 2018, "Month" : 12, "Day" : 17},
+      "DOI" : "https://doi.org/10.1145/3284432.3284465"
+    }
+  ],
+  "DomesticConference": [
+
+  ],
+  "Others": [
+
+  ]
+}
