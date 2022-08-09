@@ -9,6 +9,14 @@
      gtag('js', new Date());
 
      gtag('config', 'UA-141289480-1');
+     const xhr = new XMLHttpRequest();
+	   xhr.open('get', './res/journal.json');
+     xhr.send();
+     xhr.onreadystatechange = function() {
+      if( xhr.readyState === 4 && xhr.status === 200) {
+        console.log(this.responseText);
+      }
+      }
     </script>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
