@@ -1,5 +1,5 @@
 {
-  "Journal": [
+  "Papers": [
     {
       "Titile": "Is autonomation appropriate? : Semi-autonomous Telepresence Architecture by Focusing on Voluntary and Involuntary Movements", 
       "Authors": [
@@ -17,13 +17,19 @@
       "Lang": "English"
     },
     {
-      "Titile": "遠隔操作と自律操作を適応的に切り替える半自律テレプレゼンスロボットアーキテクチャ", 
+      "Titile": {
+        "Japanese": "遠隔操作と自律操作を適応的に切り替える半自律テレプレゼンスロボットアーキテクチャ", 
+        "English": "Semi-Autonomous Telepresence Robot Architecture for Adaptively Switching between Remote and Autonomous Operation"
+      },
       "Authors": [
-        {"FirstName": "耕平", "LastName": "奥岡" },
-        {"FirstName": "正彦", "LastName": "大澤" },
-        {"FirstName": "倫太", "LastName": "今井" }
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }}, 
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }}
       ],
-      "Journal": "人工知能学会論文誌", 
+      "Journal": {
+        "Japanese": "人工知能学会論文誌", 
+        "English": "Journal of the Japanese Society for Artificial Intelligence"
+      },
       "Volume": 36, 
       "Number": 2, 
       "Pages": "D-K47_1-12",
@@ -44,29 +50,5 @@
       "DOI" : "https://doi.org/10.3389/fpsyg.2022.920844",
       "Lang": "English"
     }
-  ],
-  "InternationalConference": [
-    {
-      "Titile": "Semi-Autonomous Telepresence Robot for Adaptively Switching Operation using Inhibition and Disinhibition Mechanism", 
-      "Authors": [
-        {"FirstName": "Kohei", "LastName": "Okuoka" },
-        {"FirstName": "Yusuke", "LastName": "Takimoto" },
-        {"FirstName": "Masahiko", "LastName": "Osawa" },
-        {"FirstName": "Michita", "LastName": "Imai" }
-      ],
-      "BookTitle": "Proceedings of the 6th International Conference on Human-Agent Interaction",
-      "ConferenceShort": "HAI2018",
-      "City" : "",
-      "Country": "UK",
-      "Pages": "167-175",
-      "PublishedDate" : {"Year" : 2018, "Month" : 12, "Day" : 17},
-      "DOI" : "https://doi.org/10.1145/3284432.3284465"
-    }
-  ],
-  "DomesticConference": [
-
-  ],
-  "Others": [
-
   ]
 }

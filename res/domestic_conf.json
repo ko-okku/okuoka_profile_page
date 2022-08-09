@@ -1,0 +1,453 @@
+{
+  "Papers": [
+    {
+      "Titile": {
+        "Japanese": "Advantage関数を用いたコントローラキャリブレーションによるユーザ好みのマッピングの獲得",
+        "English": ""
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "麟太郎", "LastName": "長谷川" }, "English": {"FirstName": "Rintaro", "LastName": "Hasegawa" }},
+        {"Japanese": {"FirstName": "庸介", "LastName": "福地" }, "English": {"FirstName": "Yosuke", "LastName": "Fukuchi" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }}
+      ],
+      "PresentationStyle": "Oral",
+      "BookTitle": {
+        "Japanese": "情報処理学会 第84回全国大会",
+        "English": ""
+      },
+      "Venue": "Online",
+      "Number": 4,
+      "Page": "39-40",
+      "PresentationID": "5ZD-06",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2022, "Month" : 3, "Day" : 4}
+    }, 
+    {
+      "Titile": {
+        "Japanese": "身体のない音エージェントによる推薦効果の調査",
+        "English": "Preliminary research on the effectiveness of recommendations by Sound Agents without body"
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "遼介", "LastName": "川島" }, "English": {"FirstName": "Ryosuke", "LastName": "Kawashima" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "拓也", "LastName": "岩本" }, "English": {"FirstName": "Takuya", "LastName": "Iwamoto" }},
+        {"Japanese": {"FirstName": "淳", "LastName": "馬場" }, "English": {"FirstName": "Jun", "LastName": "Baba" }},
+        {"Japanese": {"FirstName": "大介", "LastName": "遠藤" }, "English": {"FirstName": "Daisuke", "LastName": "Endo" }},
+        {"Japanese": {"FirstName": "隆司", "LastName": "大森" }, "English": {"FirstName": "Takashi", "LastName": "Omori" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }}
+      ],
+      "PresentationStyle": "Oral",
+      "BookTitle": {
+        "Japanese": "信学技報",
+        "English": "IEICE Technical Report"
+      },
+      "Venue": "Online",
+      "Volume": 121,
+      "Number": 363,
+      "Page": "7-11",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2022, "Month" : 1, "Day" : 28}
+    },
+    {
+      "Titile": {
+        "Japanese": "エージェントとの共同視聴によるユーザの孤独感解消への影響",
+        "English": "Impact of co-viewing with agents on eliminating user loneliness"
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "将樹", "LastName": "阿部" }, "English": {"FirstName": "Masaki", "LastName": "Abe" }},
+        {"Japanese": {"FirstName": "拡幹", "LastName": "大塚" }, "English": {"FirstName": "Hiroki", "LastName": "Otuka" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }}
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": {
+        "Japanese": "HAIシンポジウム2021",
+        "English": "Human-Agent Interaction Symposium 2021"
+      },
+      "Venue": "Online",
+      "PresentationID": "P-57",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2021, "Month" : 3, "Day" : 10}
+    },   
+    {
+      "Titile": {
+        "Japanese": "エージェントへのあたたかさのインストールに向けて",
+        "English": "Toward the installation of warmth on agent"
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "有唯", "LastName": "小椋" }, "English": {"FirstName": "Ui", "LastName": "Ogura" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }}
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": {
+        "Japanese": "HAIシンポジウム2021",
+        "English": "Human-Agent Interaction Symposium 2021"
+      },
+      "Venue": "Online",
+      "PresentationID": "P-56",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2021, "Month" : 3, "Day" : 10}
+    },   
+    {
+      "Titile": {
+        "Japanese": "レジュメ型オンライン会議における音声の言語情報を用いたスクローリングインタラクションの基礎検討",
+        "English": ""
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "くるみ", "LastName": "森本" }, "English": {"FirstName": "Kurumi", "LastName": "Morimoto" }},
+        {"Japanese": {"FirstName": "匠哉", "LastName": "松森" }, "English": {"FirstName": "Shoya", "LastName": "Matsumori" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "充彦", "LastName": "木本" }, "English": {"FirstName": "Mitsuhiko", "LastName": "Kimoto" }},
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }}
+      ],
+      "PresentationStyle": "Oral",
+      "BookTitle": {
+        "Japanese": "研究報告ユビキタスコンピューティングシステム（UBI）",
+        "English": ""
+      },
+      "Volume": 5,
+      "Page": "1-5",
+      "Venue": "淡路夢舞台国際会議場",
+      "City" : "兵庫",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2020, "Month" : 12, "Day" : 8}
+    }, 
+    {
+      "Titile": {
+        "Japanese": "BDIモデルベース階層型他者モデルの検討",
+        "English": "PredGaze: a Study of Predict Agent Gaze Behavior"
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }}, 
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }}
+      ],
+      "PresentationStyle": "InvitedLecture",
+      "BookTitle": {
+        "Japanese": "日本認知科学会第37回大会",
+        "English": "The 37th Annual Meeting of the Japanese Cognitive Science Society"
+      },
+      "Venue": "Online",
+      "PresentationID": "OS02-2",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2020, "Month" : 9, "Day" : 17}
+    },   
+    {
+      "Titile": {
+        "Japanese": "エージェントの視線動作にユーザが抱く違和感予測モデル「PredGaze」の提案",
+        "English": "PredGaze: a Study of Predict Agent Gaze Behavior"
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "洋平", "LastName": "大塚" }, "English": {"FirstName": "Yohei", "LastName": "Otsuka" }},
+        {"Japanese": {"FirstName": "祥平", "LastName": "秋田" }, "English": {"FirstName": "Shohei", "LastName": "Akita" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "充彦", "LastName": "木本" }, "English": {"FirstName": "Mitsuhiko", "LastName": "Kimoto" }},
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }}
+      ],
+      "PresentationStyle": "Oral",
+      "BookTitle": {
+        "Japanese": "2020年度人工知能学会全国大会",
+        "English": "The 34th Annual Conference of the Japanese Society for Artificial Intelligence"
+      },
+      "Venue": "Online",
+      "PresentationID": "1P3-GS-7-01",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2020, "Month" : 6, "Day" : 9}
+    }, 
+    {
+      "Titile": {
+        "Japanese": "認知的インタラクションフレームワークに基づいた他者モデルの提案",
+        "English": "Other's Mind Model Based on Cognitive Interaction Framework"
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "孝文", "LastName": "坂本" }, "English": {"FirstName": "Takafumi", "LastName": "Sakamoto" }},
+        {"Japanese": {"FirstName": "淳", "LastName": "市川" }, "English": {"FirstName": "Jun", "LastName": "Ichikawa" }},
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }}
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": {
+        "Japanese": "HAIシンポジウム2020",
+        "English": "Human-Agent Interaction Symposium 2020"
+      },
+      "Venue": "Online",
+      "PresentationID": "P-40",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2020, "Month" : 3, "Day" : 6}
+    },  
+    {
+      "Titile": {
+        "Japanese": "エージェントの視線動作にユーザが抱く違和感予測モデルの提案",
+        "English": "PredGaze: a Study of Predict Agent Gaze Behavior"
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "洋平", "LastName": "大塚" }, "English": {"FirstName": "Yohei", "LastName": "Otsuka" }},
+        {"Japanese": {"FirstName": "祥平", "LastName": "秋田" }, "English": {"FirstName": "Shohei", "LastName": "Akita" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "充彦", "LastName": "木本" }, "English": {"FirstName": "Mitsuhiko", "LastName": "Kimoto" }},
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }}
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": {
+        "Japanese": "HAIシンポジウム2020",
+        "English": "Human-Agent Interaction Symposium 2020"
+      },
+      "Venue": "Online",
+      "PresentationID": "P-12",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2020, "Month" : 3, "Day" : 6}
+    },  
+    {
+      "Titile": {
+        "Japanese": "ナッジ効果を用いた運転支援システムの提示タイミングの決定",
+        "English": "To determine the display timing of driving assistant using Nudge"
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "晃一", "LastName": "榎波" }, "English": {"FirstName": "Kouichi", "LastName": "Enami" }},
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "祥平", "LastName": "秋田" }, "English": {"FirstName": "Shohei", "LastName": "Akita" }}
+      ],
+      "PresentationStyle": "Oral",
+      "BookTitle": {
+        "Japanese": "2019年度人工知能学会全国大会",
+        "English": "The 33th Annual Conference of the Japanese Society for Artificial Intelligence"
+      },
+      "Venue": "朱鷺メッセ",
+      "City" : "新潟",
+      "PresentationID": "1G4-OS-13b-02",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2019, "Month" : 6, "Day" : 4}
+    },     
+    {
+      "Titile": {
+        "Japanese": "適応ギャップ理論を拡張したインタラクションデザインの提案",
+        "English": "Interaction Design Expanding Adaptation Gap Theory"
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "聡子", "LastName": "福田" }, "English": {"FirstName": "Satoko", "LastName": "Fukuda" }},
+        {"Japanese": {"FirstName": "志織", "LastName": "澤田" }, "English": {"FirstName": "Shiori", "LastName": "Sawada" }},
+        {"Japanese": {"FirstName": "邦将", "LastName": "川崎" }, "English": {"FirstName": "Kunimasa", "LastName": "Kawasaki" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }},   
+        {"Japanese": {"FirstName": "茂美", "LastName": "長田" }, "English": {"FirstName": "Shigemi", "LastName": "Nagata" }}, 
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }}
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": {
+        "Japanese": "HAIシンポジウム2018",
+        "English": "Human-Agent Interaction Symposium 2018"
+      },
+      "Venue": "専修大学生田キャンパス",
+      "City" : "神奈川",
+      "PresentationID": "D-3",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2019, "Month" : 3, "Day" : 8}
+    },   
+    {
+      "Titile": {
+        "Japanese": "3DCGエージェントを用いて共同注視の実感を高めるビデオチャットシステム",
+        "English": "Video Chat System which Enhances the Feeling of Joint Gaze Using 3DCG Agent"
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "桃子", "LastName": "芹澤" }, "English": {"FirstName": "Momoko", "LastName": "Serizawa" }},
+        {"Japanese": {"FirstName": "祥平", "LastName": "秋田" }, "English": {"FirstName": "Shohei", "LastName": "Akita" }}, 
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "太一", "LastName": "岨野" }, "English": {"FirstName": "Taichi", "LastName": "Sono" }},
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }}
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": {
+        "Japanese": "HAIシンポジウム2018",
+        "English": "Human-Agent Interaction Symposium 2018"
+      },
+      "Venue": "専修大学生田キャンパス",
+      "City" : "神奈川",
+      "PresentationID": "P-12",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2019, "Month" : 3, "Day" : 8}
+    },   
+    {
+      "Titile": {
+        "Japanese": "ベクションとキャラクターによる半自動運転の補助エージェントの通知タイミングに関する調査",
+        "English": "Notification timing of agent with vection and character for semi-automatic wheelchair operation"
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "晃一", "LastName": "榎波" }, "English": {"FirstName": "Kouichi", "LastName": "Enami" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "祥平", "LastName": "秋田" }, "English": {"FirstName": "Shohei", "LastName": "Akita" }}, 
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }}
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": {
+        "Japanese": "HAIシンポジウム2018",
+        "English": "Human-Agent Interaction Symposium 2018"
+      },
+      "Venue": "専修大学生田キャンパス",
+      "City" : "神奈川",
+      "PresentationID": "P-12",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2019, "Month" : 3, "Day" : 8}
+    }, 
+    {
+      "Titile": {
+        "Japanese": "接客エージェントへ生物感を付与する視線制御モデル",
+        "English": "A gaze control model making an agent look like alive"
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "秋平", "LastName": "永吉" }, "English": {"FirstName": "Shuhei", "LastName": "Nagayoshi" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "遼", "LastName": "北川" }, "English": {"FirstName": "Ryo", "LastName": "Kitagawa" }}, 
+        {"Japanese": {"FirstName": "太一", "LastName": "岨野" }, "English": {"FirstName": "Taichi", "LastName": "Sono" }},      
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }}
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": {
+        "Japanese": "HAIシンポジウム2018",
+        "English": "Human-Agent Interaction Symposium 2018"
+      },
+      "Venue": "専修大学生田キャンパス",
+      "City" : "神奈川",
+      "PresentationID": "P-33",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2019, "Month" : 3, "Day" : 8}
+    },  
+    {
+      "Titile": {
+        "Japanese": "認知地図への影響を考慮したユーザに適応的なストリートビュー",
+        "English": ""
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "理興", "LastName": "里形" }, "English": {"FirstName": "Riki", "LastName": "Satogata" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }},      
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }}
+      ],
+      "PresentationStyle": "Oral",
+      "BookTitle": {
+        "Japanese": "信学技報",
+        "English": "IEICE Technical Report"
+      },
+      "Volume": 118,
+      "Number": 304,
+      "Page": "7-12",
+      "Venue": "唐津市民交流プラザ",
+      "City" : "佐賀",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2018, "Month" : 11, "Day" : 15}
+    },     
+    {
+      "Titile": {
+        "Japanese": "ロボットの行動原理を形成した経験の提示が行動の意図を人に想定させるか",
+        "English": "Does Showing the Experience Forming the Behavioral Principle of the Robot Make Human Suppose the Intention of Action?"
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "秋平", "LastName": "永吉" }, "English": {"FirstName": "Shuhei", "LastName": "Nagayoshi" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }},      
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }}
+      ],
+      "PresentationStyle": "Oral",
+      "BookTitle": {
+        "Japanese": "第9回汎用人工知能研究会",
+        "English": "The 9th SIG-AGI"
+      },
+      "Venue": "国立情報学研究所",
+      "City" : "東京",
+      "PresentationID": "SIG-AGI-009-03",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2018, "Month" : 8, "Day" : 30}
+    },   
+    {
+      "Titile": {
+        "Japanese": "コンテクスト推定に基づいて予測的認知を誘発する非自然言語エージェント",
+        "English": ""
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }},      
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }}
+      ],
+      "PresentationStyle": "Oral",
+      "BookTitle": {
+        "Japanese": "情報処理学会第80回全国大会",
+        "English": ""
+      },
+      "Venue": "早稲田大学西早稲田キャンパス",
+      "City" : "東京",
+      "PresentationID": "5N-04",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2018, "Month" : 3, "Day" : 14}
+    },
+    {
+      "Titile": {
+        "Japanese": "マルチモーダル情報を用いたコンテクスト予測に基づいて伝達文字量を最適化する対話システム",
+        "English": "Dialogue system for optimizing the amount of transmitted characters based on context prediction using multimodal information"
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }},      
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }}
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": {
+        "Japanese": "HAIシンポジウム2017",
+        "English": "Human-Agent Interaction Symposium 2017"
+      },
+      "Venue": "金沢歌劇座",
+      "City" : "石川",
+      "PresentationID": "P-40",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2017, "Month" : 12, "Day" : 11}
+    },
+    {
+      "Titile": {
+        "Japanese": "半自律テレプレゼンスロボットによる自律化が与える遠隔操作者への影響調査",
+        "English": "Influence Evaluation on Remote Operator by Autonomization with Semi-autonomous Telepresence Robots"
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }},
+        {"Japanese": {"FirstName": "佑介", "LastName": "滝本" }, "English": {"FirstName": "Yusuke", "LastName": "Takimoto" }},
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }}
+      ],
+      "PresentationStyle": "Oral",
+      "BookTitle": {
+        "Japanese": "第6回汎用人工知能研究会",
+        "English": "The 6th SIG-AGI"
+      },
+      "Venue": "銀座松竹スクエア",
+      "City" : "東京",
+      "PresentationID": "SIG-AGI-006-08",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2017, "Month" : 9, "Day" : 15},
+      "DOI": "https://doi.org/10.11517/jsaisigtwo.2017.AGI-006_08"
+    },
+    {
+      "Titile": {
+        "Japanese": "随意・不随意行動に着目した半自律テレプレゼンスロボットのふるまいの印象調査",
+        "English": "Impression Evaluation of Semi-autonomous Telepresence Robots Focusing on Voluntary and Involuntary Behavior"
+      }, 
+      "Authors": [
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }},
+        {"Japanese": {"FirstName": "佑介", "LastName": "滝本" }, "English": {"FirstName": "Yusuke", "LastName": "Takimoto" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }}
+      ],
+      "PresentationStyle": "Oral",
+      "BookTitle": {
+        "Japanese": "日本認知科学会第34回大会",
+        "English": "The 34th Annual Meeting of the Japanese Cognitive Science Society"
+      },
+      "Venue": "金沢大学角間キャンパス",
+      "City" : "石川",
+      "PresentationID": "OS11-5",
+      "Pages": "401-409",
+      "PublishedDate" : {"Year" : 2017, "Month" : 9, "Day" : 15},
+      "Lang": "Japanese"
+    }
+  ]
+}

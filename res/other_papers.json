@@ -1,0 +1,19 @@
+{
+  "Papers": [
+    {
+      "Titile": "Mask and Cloze: Automatic Open Cloze Question Generation using a Masked Language Model", 
+      "Authors": [
+        {"FirstName": "Shoya", "LastName": "Matsumori" },
+        {"FirstName": "Kohei", "LastName": "Okuoka" },
+        {"FirstName": "Ryoichi", "LastName": "Shibata" },
+        {"FirstName": "Minami", "LastName": "Inoue" },
+        {"FirstName": "Yosuke", "LastName": "Fukuchi" },
+        {"FirstName": "Michita", "LastName": "Imai" }
+      ],
+      "Journal": "arXiv",
+      "LastUpdateDate" : {"Year" : 2022, "Month" : 5, "Day" : 15},
+      "DOI" : "https://doi.org/10.48550/arXiv.2205.07202",
+      "Lang": "English"
+    }
+  ]
+}
