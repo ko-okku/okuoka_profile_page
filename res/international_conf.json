@@ -1,7 +1,9 @@
 {
+  "UpdateDate": "2022-08-10",
   "Papers": [
     {
-      "Titile": "Semi-Autonomous Telepresence Robot for Adaptively Switching Operation using Inhibition and Disinhibition Mechanism", 
+      "Type": "InternationalConference",
+      "Title": "Semi-Autonomous Telepresence Robot for Adaptively Switching Operation using Inhibition and Disinhibition Mechanism", 
       "Authors": [
         {"FirstName": "Kohei", "LastName": "Okuoka" },
         {"FirstName": "Yusuke", "LastName": "Takimoto" },
@@ -20,7 +22,8 @@
       "Lang": "English"
     },
     {
-      "Titile": "Adaptive Semi-autonomous Agents via Episodic Control", 
+      "Type": "InternationalConference",
+      "Title": "Adaptive Semi-autonomous Agents via Episodic Control", 
       "Authors": [
         {"FirstName": "Takuma", "LastName": "Seno" },
         {"FirstName": "Kohei", "LastName": "Okuoka" },
@@ -39,7 +42,8 @@
       "Lang": "English"
     },
     {
-      "Titile": "Notification Timing of Agent with Vection and Character for Semi-Automatic Wheelchair Operation", 
+      "Type": "InternationalConference",
+      "Title": "Notification Timing of Agent with Vection and Character for Semi-Automatic Wheelchair Operation", 
       "Authors": [
         {"FirstName": "Kouichi", "LastName": "Enami" },
         {"FirstName": "Kohei", "LastName": "Okuoka" },
@@ -58,7 +62,8 @@
       "Lang": "English"
     },
     {
-      "Titile": "PredGaze: A Incongruity Prediction Model for User’s Gaze Movement", 
+      "Type": "InternationalConference",
+      "Title": "PredGaze: A Incongruity Prediction Model for User’s Gaze Movement", 
       "Authors": [
         {"FirstName": "Yohei", "LastName": "Otsuka" },
         {"FirstName": "Shohei", "LastName": "Akita" },
@@ -76,7 +81,8 @@
       "Lang": "English"
     },
     {
-      "Titile": "Examining the Factors that Make Co-Watching with Agents Effective", 
+      "Type": "InternationalConference",
+      "Title": "Examining the Factors that Make Co-Watching with Agents Effective", 
       "Authors": [
         {"FirstName": "Masaki" , "LastName": "Abe" },
         {"FirstName": "Kohei", "LastName": "Okuoka" },
@@ -89,6 +95,40 @@
       "Pages": "354-357",
       "PublishedDate" : {"Year" : 2021, "Month" : 11, "Day" : 10},
       "DOI" : "https://doi.org/10.1145/3472307.3484654",
+      "Lang": "English"
+    },
+    {
+      "Title": "Advantage Mapping: LearningOperation Mapping for User-PreferredManipulation by Extracting Sceneswith Advantage Function", 
+      "Authors": [
+        {"FirstName": "Rintaro" , "LastName": "Hasegawa" },
+        {"FirstName": "Yosuke" , "LastName": "Fukuchi" },
+        {"FirstName": "Kohei", "LastName": "Okuoka" },
+        {"FirstName": "Michita", "LastName": "Imai" }
+      ],
+      "PresentationStyle": "Oral",
+      "BookTitle": "Proceedings of the 10th International Conference on Human-Agent Interaction",
+      "ConferenceShort": "HAI2022",
+      "Venue": "",
+      "Pages": "",
+      "PublishedDate" : {"Year" : 2022, "Month" : 12, "Day" : 10},
+      "DOI" : "",
+      "Lang": "English"
+    },
+    {
+      "Title": "VISTURE: A System for Video-BasedGesture and Speech Generation byRobots", 
+      "Authors": [
+        {"FirstName": "Kaon" , "LastName": "Shimoyama" },
+        {"FirstName": "Kohei", "LastName": "Okuoka" },
+        {"FirstName": "Mitsuhiko", "LastName": "Kimoto" },
+        {"FirstName": "Michita", "LastName": "Imai" }
+      ],
+      "PresentationStyle": "Oral",
+      "BookTitle": "Proceedings of the 10th International Conference on Human-Agent Interaction",
+      "ConferenceShort": "HAI2022",
+      "Venue": "",
+      "Pages": "",
+      "PublishedDate" : {"Year" : 2022, "Month" : 12, "Day" : 10},
+      "DOI" : "",
       "Lang": "English"
     }
   ]

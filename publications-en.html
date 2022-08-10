@@ -14,7 +14,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="This is Kohei Okuoka's publications page.">
-    <title>Kohei Okuoka - Publications</title>
+    <title id="title" data-lang="English">Kohei Okuoka - Publications</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap-4.3.1.css" rel="stylesheet">
   </head>
@@ -40,51 +40,33 @@
     </nav>
     <section class="bg-mylight">
       <div class="container">
-        <div class="row">
+        <div class="row" style="padding-bottom: 3rem">
           <div class="col-12">
             <div class="text-center" style="padding-top: 2rem">
               <h1 class="pub_frame text-center">Publications</h1>
-              <p>Latest info. : <a href="https://scholar.google.co.jp/citations?user=71i3P6MAAAAJ&hl=ja">Google scholar</a></p>                 
+              <p>
+                Latest info.: <a href="https://scholar.google.co.jp/citations?user=71i3P6MAAAAJ&hl=ja">Google scholar</a>
+                <!-- &nbsp;&nbsp;Download: <a href="javascript:getBibtex();">Bibtex</a> -->
+                &nbsp;&nbsp;Last Update: <span id="LastUpdate"></span>
+              </p>                 
             </div>
             <div class="text-center">
             <h3 class="h3_pub_bk">Journal</h3>
             </div>
-            <ol>
-              <li>
-                <p>Kohei Okuoka, Masahiko Osawa, Michita Imai, "Semi-Autonomous Telepresence Robot Architecture for Adaptively Switching between Remote and Autonomous Operation", The Japanese Society of Artificial Intelligence,Vol.36,No.2,D-K47 1-12,2021, <a href=" https://doi.org/10.1527/tjsai.36-2_D-K47"> https://doi.org/10.1527/tjsai.36-2_D-K47</a>.</p>
-              </li>
-			         <li>
-                <p>Masahiko Osawa, Kohei Okuoka, Yusuke Takimoto, Michita Imai. "Is autonomation appropriate? : Semi-autonomous Telepresence Architecture by Focusing on Voluntary and Involuntary Movements". Social Robotics, 2020, <a href="https://doi.org/10.1007/s12369-020-00620-5">https://doi.org/10.1007/s12369-020-00620-5</a>.</p>
-              </li>
-            </ol>
+            <ol id="journal_list"></ol>
        
             <div class="text-center">
               <h3 class="h3_pub_bk" style="margin-top: 3rem">International Conference</h3>
             </div>
-            <ol>
-			  <li>
-				<p>Yohei Otsuka, Shohei Akita, Kohei Okuoka, Mitsuhiko Kimoto, Michita Imai, "PredGaze: A Incongruity Prediction Model for User’s Gaze Movement", 2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2020, pp. 48-53.</p>
-			  </li>
-			  <li>
-                <p>Kouichi Enami, Kohei Okuoka, Shohei Akita, Michita Imai. "Notification Timing of Agent with Vection and Character for Semi-Automatic Wheelchair Operation". 7th International Conference on Human-Agent Interaction, Japan, September 2019, pp. 127-134.</p>
-              </li>
-              <li>
-                <p>Kohei Okuoka, Yusuke Takimoto, Masahiko Osawa, Michita Imai, 
-                   "Semi-Autonomous Telepresence Robot for Adaptively Switching Operation using Inhibition and Disinhibition Mechanism", 
-                   6th International Conference on Human-Agent Interaction, UK, December 2018, pp.167-175.
-                   <br>[Accpetance rate=29%]</p>
-              </li>
-              <li>
-                <p>Takuma Seno, Kohei Okuoka, Masahiko Osawa, Michita Imai, 
-                   "Adaptive Semi-autonomous Agents via Episodic Control",
-                   6th International Conference on Human-Agent Interaction, pp.377-379, Southampton, UK, December 2018.</p>
-              </li>
-            </ol>
+            <ol id="international_conf_list"></ol>
+            <div class="text-center">
+              <h3 class="h3_pub_bk" style="margin-top: 3rem">Others</h3>
+            </div>
+            <ol id="other_papers_list"></ol>
             <div class="text-center">
               <h3 class="h3_pub_bk" style="margin-top: 3rem">Domestic Conference</h3>
             </div>
             <p class="text-center"><a href="publications.html">(Japanese page only)</a></p>
-            <p>Last update: 2020/06/01</p>
           </div>
         </div>
       </div>
@@ -103,5 +85,6 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap-4.3.1.js"></script>
+    <script src="js/data_loader.js"></script>
   </body>
 </html>

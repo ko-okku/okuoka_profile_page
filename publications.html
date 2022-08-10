@@ -9,20 +9,12 @@
      gtag('js', new Date());
 
      gtag('config', 'UA-141289480-1');
-     const xhr = new XMLHttpRequest();
-	   xhr.open('get', './res/journal.json');
-     xhr.send();
-     xhr.onreadystatechange = function() {
-      if( xhr.readyState === 4 && xhr.status === 200) {
-        console.log(this.responseText);
-      }
-      }
     </script>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="This is Kohei Okuoka's publications page.">
-    <title>奥岡 耕平 - Publications</title>
+    <title id="title" data-lang="Japanese">奥岡 耕平 - Publications</title>
     <link href="css/bootstrap-4.3.1.css" rel="stylesheet"> <!-- Bootstrap -->
   </head>
   <body>
@@ -47,126 +39,32 @@
     </nav>
     <section class="bg-mylight">
       <div class="container">
-        <div class="row">
+        <div class="row" style="padding-bottom: 3rem">
           <div class="col-12">
             <div class="text-center" style="padding-top: 2rem">
               <h1 class="pub_frame text-center">Publications</h1>
-              <p>最新情報はこちら：<a href="https://scholar.google.co.jp/citations?user=71i3P6MAAAAJ&hl=ja">Google scholar</a></p> 
+              <p>
+                最新情報はこちら: <a href="https://scholar.google.co.jp/citations?user=71i3P6MAAAAJ&hl=ja">Google scholar</a>
+                <!-- &nbsp;&nbsp;Download: <a href="javascript:getBibtex();">Bibtex</a> -->
+                &nbsp;&nbsp;最終更新日: <span id="LastUpdate"></span>
+              </p>
             </div>			
             <div class="text-center">
             <h3 class="h3_pub_bk">Journal</h3>
             </div>
-            <ol>
-			  <li>
-                <p>奥岡 耕平, 大澤 正彦, 今井 倫太, "遠隔操作と自律操作を適応的に切り替える半自律テレプレゼンスロボットアーキテクチャ", 人工知能学会論文誌, Vol.36, No.2, D-K47 1-12, 2021, <a href=" https://doi.org/10.1527/tjsai.36-2_D-K47"> https://doi.org/10.1527/tjsai.36-2_D-K47</a>.</p>
-              </li>
-              <li>
-                <p>Masahiko Osawa, Kohei Okuoka, Yusuke Takimoto, Michita Imai. "Is autonomation appropriate? : Semi-autonomous Telepresence Architecture by Focusing on Voluntary and Involuntary Movements". Social Robotics, 2020, <a href="https://doi.org/10.1007/s12369-020-00620-5">https://doi.org/10.1007/s12369-020-00620-5</a>.</p>
-              </li>
-            </ol>
+            <ol id="journal_list"></ol>
             <div class="text-center">
               <h3 class="h3_pub_bk" style="margin-top: 3rem">International Conference</h3>
             </div>
-            <ol>
-			  <li>
-				<p>Yohei Otsuka, Shohei Akita, Kohei Okuoka, Mitsuhiko Kimoto, Michita Imai, "PredGaze: A Incongruity Prediction Model for User’s Gaze Movement", 2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2020, pp. 48-53.</p>
-			  </li>
-			  <li>
-                <p>Kouichi Enami, Kohei Okuoka, Shohei Akita, Michita Imai. "Notification Timing of Agent with Vection and Character for Semi-Automatic Wheelchair Operation". 7th International Conference on Human-Agent Interaction, Japan, September 2019, pp. 127-134.</p>
-              </li>
-              <li>
-                <p>Kohei Okuoka, Yusuke Takimoto, Masahiko Osawa, Michita Imai, 
-                   "Semi-Autonomous Telepresence Robot for Adaptively Switching Operation using Inhibition and Disinhibition Mechanism", 
-                   6th International Conference on Human-Agent Interaction, pp.167-175, UK, December 2018.
-                   <br>[Accpetance rate=29%]</p>
-              </li>
-              <li>
-                <p>Takuma Seno, Kohei Okuoka, Masahiko Osawa, Michita Imai, 
-                   "Adaptive Semi-autonomous Agents via Episodic Control",
-                   6th International Conference on Human-Agent Interaction, pp.377-379, Southampton, UK, December 2018.</p>
-              </li>
-            </ol>
+            <ol id="international_conf_list"></ol>
             <div class="text-center">
               <h3 class="h3_pub_bk" style="margin-top: 3rem">Domestic Conference</h3>
             </div>
-            <ol>
-			        <li>
-                <p>阿部将樹, 奥岡耕平, 大塚拡幹, 大澤正彦, 
-				   "エージェントとの共同視聴によるユーザの孤独感解消への影響",
-                HAIシンポジウム2021, P-57, オンライン開催, 2021年3月.</p>
-              </li>
-			    <li>
-                <p>小椋有唯, 奥岡耕平, 大澤正彦, 
-                   "エージェントへのあたたかさのインストールに向けて", 
-                HAIシンポジウム2021, P-56, オンライン開催, 2021年3月.</p>
-              </li>
-			  <li>
-                <p>森本くるみ, 松森匠哉, 奥岡耕平, 木本充彦, 今井倫太, 
-					"レジュメ型オンライン会議における音声の言語情報を用いたスクローリングインタラクションの基礎検討", 
-					第190回ヒューマンコンピュータインタラクション・第68回ユビキタスコンピューティングシステム合同研究発表会, 
-					兵庫, 2020年12月.</p>
-              </li>
-			  <li>
-                <p>奥岡耕平, 大澤正彦, 今井倫太, "BDIモデルベース階層型他者モデルの検討", 
-				   日本認知科学会第37回大会, オンライン開催, 2020年9月.</p>
-              </li>
-			  <li>
-                <p>大塚洋平, 秋田祥平, 奥岡耕平, 木本充彦, 今井倫太, 
-					"エージェントの視線動作にユーザが抱く違和感予測モデル 「PredGaze」 の提案", 
-					2020年度人工知能学会全国大会, オンライン開催, 2020年6月.</p>
-              </li>
-			  <li>
-                <p>榎波晃一, 今井倫太, 奥岡耕平, 秋田祥平, 
-                   "ナッジ効果を用いた運転支援システムの提示タイミングの決定", 
-                 2019年度人工知能学会全国大会, 1G4-OS-13b-02, 新潟, 2019年6月.</p>
-              </li>	
-              <li>
-                <p>福田聡子, 澤田志織, 川崎邦将, 奧岡耕平, 大澤正彦, 長田茂美, 今井倫太, 
-                   "適応ギャップ理論を拡張したインタラクションデザインの提案", 
-                HAIシンポジウム2018, D-3, 神奈川, 2019年3月.</p>
-              </li>
-              <li>
-                <p>榎波晃一, 奥岡耕平, 秋田祥平, 今井倫太, 
-                   "電動車椅子運転支援エージェントにおける情報通知タイミ ングに関する調査", 
-                HAIシンポジウム2018, P-12, 神奈川, 2019年3月.</p>
-              </li>
-              <li>
-                <p>永吉秋平, 奥岡耕平, 北川遼, 岨野太一, 今井倫太, 
-                   "接客エージェントへ生物感を付与する視線制御モデル", 
-                HAIシンポジウム2018, P-33, 神奈川, 2019年3月.</p>
-              </li>
-              <li>
-                <p>里形理興, 奥岡耕平, 大澤正彦, 今井倫太, 
-                   "認知地図への影響を考慮したユーザに適応的なストリートビュー", 
-                信学技報, Vol.118, No.306, CNR2018-22, pp.25-30, 佐賀, 2018年11月.</p>
-              </li>
-              <li>
-                <p>永吉秋平, 奥岡耕平, 大澤正彦, 今井倫太, 
-                   "ロボットの行動原理を形成した経験の提示が行動の意図を人に想定させるか", 
-                第9回汎用人工知能研究会, SIG-AGI-009-03, 東京, 2018年8月.</p>
-              </li>
-              <li>
-                <p>奥岡耕平, 大澤正彦, 今井倫太, 
-                   "コンテクスト推定に基づいて予測的認知を誘発する非自然言語エージェント", 
-                   情報処理学会第80回全国大会, 5N-04, 東京, 2018年3月.</p>
-              </li>
-              <li>
-                <p>奥岡耕平, 大澤正彦, 今井倫太, 
-                   "マルチモーダル情報を用いたコンテクスト予測に基づいて伝達文字量を最適化する対話システム", 
-                   HAI シンポジウム2017, P-40, 石川, 2017年12月.</p>
-              </li>
-              <li>
-                <p>奥岡耕平, 大澤正彦, 滝本佑介, 今井倫太, 
-                   “半自律テレプレゼンスロボットによる自律化が与える遠隔 操作者への影響調査”, 
-                第6回汎用人工知能研究会, SIG-AGI-006-08, 東京, 2017年9月.</p>
-              </li>
-              <li>
-                <p>大澤正彦, 滝本佑介, 奥岡耕平, 今井倫太, 
-                   “随意・不随意行動に着目した半自律テレプレゼンスロボットのふるまいの印象調査”, 
-                   日本認知科学会, OS11-5, 石川, 2017年9月.</p>
-              </li>
-            </ol>
-            <p>Last update: 2021/06/01</p>
+            <ol id="domestic_conf_list"></ol>
+            <div class="text-center">
+              <h3 class="h3_pub_bk" style="margin-top: 3rem">Others</h3>
+            </div>
+            <ol id="other_papers_list"></ol>
           </div>
         </div>
       </div>
@@ -184,7 +82,7 @@
                 <p>Microsoft Imagine Cup Award, KEIO TECHNO-MALL2017, 東京国際フォーラム, 2017年12月.</p>
               </li>
             </ol>
-			<h3 class="h3_pub" style="margin-top: 3rem">Academic Acitivites</h3>
+			      <h3 class="h3_pub" style="margin-top: 3rem">Academic Acitivites</h3>
             <ol>
               <li>
                 <p>NGHAI2018(workshop held in HAI2018) Group Activity Chair</p>
@@ -220,5 +118,6 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap-4.3.1.js"></script>
+    <script src="js/data_loader.js"></script>
   </body>
 </html>

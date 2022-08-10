@@ -1,7 +1,9 @@
 {
+  "UpdateDate": "2022-08-10",
   "Papers": [
     {
-      "Titile": {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
         "Japanese": "Advantage関数を用いたコントローラキャリブレーションによるユーザ好みのマッピングの獲得",
         "English": ""
       },
@@ -24,7 +26,8 @@
       "PublishedDate" : {"Year" : 2022, "Month" : 3, "Day" : 4}
     }, 
     {
-      "Titile": {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
         "Japanese": "身体のない音エージェントによる推薦効果の調査",
         "English": "Preliminary research on the effectiveness of recommendations by Sound Agents without body"
       },
@@ -42,6 +45,7 @@
         "Japanese": "信学技報",
         "English": "IEICE Technical Report"
       },
+      "ConferenceName": "電子情報通信学会ヒューマンコミュニケーション基礎(HCS)研究会",
       "Venue": "Online",
       "Volume": 121,
       "Number": 363,
@@ -50,7 +54,8 @@
       "PublishedDate" : {"Year" : 2022, "Month" : 1, "Day" : 28}
     },
     {
-      "Titile": {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
         "Japanese": "エージェントとの共同視聴によるユーザの孤独感解消への影響",
         "English": "Impact of co-viewing with agents on eliminating user loneliness"
       },
@@ -71,7 +76,8 @@
       "PublishedDate" : {"Year" : 2021, "Month" : 3, "Day" : 10}
     },   
     {
-      "Titile": {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
         "Japanese": "エージェントへのあたたかさのインストールに向けて",
         "English": "Toward the installation of warmth on agent"
       },
@@ -91,7 +97,8 @@
       "PublishedDate" : {"Year" : 2021, "Month" : 3, "Day" : 10}
     },   
     {
-      "Titile": {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
         "Japanese": "レジュメ型オンライン会議における音声の言語情報を用いたスクローリングインタラクションの基礎検討",
         "English": ""
       },
@@ -115,7 +122,8 @@
       "PublishedDate" : {"Year" : 2020, "Month" : 12, "Day" : 8}
     }, 
     {
-      "Titile": {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
         "Japanese": "BDIモデルベース階層型他者モデルの検討",
         "English": "PredGaze: a Study of Predict Agent Gaze Behavior"
       },
@@ -135,7 +143,8 @@
       "PublishedDate" : {"Year" : 2020, "Month" : 9, "Day" : 17}
     },   
     {
-      "Titile": {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
         "Japanese": "エージェントの視線動作にユーザが抱く違和感予測モデル「PredGaze」の提案",
         "English": "PredGaze: a Study of Predict Agent Gaze Behavior"
       },
@@ -157,7 +166,8 @@
       "PublishedDate" : {"Year" : 2020, "Month" : 6, "Day" : 9}
     }, 
     {
-      "Titile": {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
         "Japanese": "認知的インタラクションフレームワークに基づいた他者モデルの提案",
         "English": "Other's Mind Model Based on Cognitive Interaction Framework"
       },
@@ -179,7 +189,8 @@
       "PublishedDate" : {"Year" : 2020, "Month" : 3, "Day" : 6}
     },  
     {
-      "Titile": {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
         "Japanese": "エージェントの視線動作にユーザが抱く違和感予測モデルの提案",
         "English": "PredGaze: a Study of Predict Agent Gaze Behavior"
       },
@@ -201,7 +212,8 @@
       "PublishedDate" : {"Year" : 2020, "Month" : 3, "Day" : 6}
     },  
     {
-      "Titile": {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
         "Japanese": "ナッジ効果を用いた運転支援システムの提示タイミングの決定",
         "English": "To determine the display timing of driving assistant using Nudge"
       },
@@ -223,7 +235,8 @@
       "PublishedDate" : {"Year" : 2019, "Month" : 6, "Day" : 4}
     },     
     {
-      "Titile": {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
         "Japanese": "適応ギャップ理論を拡張したインタラクションデザインの提案",
         "English": "Interaction Design Expanding Adaptation Gap Theory"
       },
@@ -248,7 +261,8 @@
       "PublishedDate" : {"Year" : 2019, "Month" : 3, "Day" : 8}
     },   
     {
-      "Titile": {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
         "Japanese": "3DCGエージェントを用いて共同注視の実感を高めるビデオチャットシステム",
         "English": "Video Chat System which Enhances the Feeling of Joint Gaze Using 3DCG Agent"
       },
@@ -271,7 +285,8 @@
       "PublishedDate" : {"Year" : 2019, "Month" : 3, "Day" : 8}
     },   
     {
-      "Titile": {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
         "Japanese": "ベクションとキャラクターによる半自動運転の補助エージェントの通知タイミングに関する調査",
         "English": "Notification timing of agent with vection and character for semi-automatic wheelchair operation"
       },
@@ -293,7 +308,8 @@
       "PublishedDate" : {"Year" : 2019, "Month" : 3, "Day" : 8}
     }, 
     {
-      "Titile": {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
         "Japanese": "接客エージェントへ生物感を付与する視線制御モデル",
         "English": "A gaze control model making an agent look like alive"
       },
@@ -316,7 +332,8 @@
       "PublishedDate" : {"Year" : 2019, "Month" : 3, "Day" : 8}
     },  
     {
-      "Titile": {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
         "Japanese": "認知地図への影響を考慮したユーザに適応的なストリートビュー",
         "English": ""
       },
@@ -331,6 +348,7 @@
         "Japanese": "信学技報",
         "English": "IEICE Technical Report"
       },
+      "ConferenceName": "電子情報通信学会クラウドネットワークロボット研究会",
       "Volume": 118,
       "Number": 304,
       "Page": "7-12",
@@ -340,7 +358,8 @@
       "PublishedDate" : {"Year" : 2018, "Month" : 11, "Day" : 15}
     },     
     {
-      "Titile": {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
         "Japanese": "ロボットの行動原理を形成した経験の提示が行動の意図を人に想定させるか",
         "English": "Does Showing the Experience Forming the Behavioral Principle of the Robot Make Human Suppose the Intention of Action?"
       },
@@ -362,7 +381,8 @@
       "PublishedDate" : {"Year" : 2018, "Month" : 8, "Day" : 30}
     },   
     {
-      "Titile": {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
         "Japanese": "コンテクスト推定に基づいて予測的認知を誘発する非自然言語エージェント",
         "English": ""
       },
@@ -383,7 +403,8 @@
       "PublishedDate" : {"Year" : 2018, "Month" : 3, "Day" : 14}
     },
     {
-      "Titile": {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
         "Japanese": "マルチモーダル情報を用いたコンテクスト予測に基づいて伝達文字量を最適化する対話システム",
         "English": "Dialogue system for optimizing the amount of transmitted characters based on context prediction using multimodal information"
       },
@@ -404,7 +425,8 @@
       "PublishedDate" : {"Year" : 2017, "Month" : 12, "Day" : 11}
     },
     {
-      "Titile": {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
         "Japanese": "半自律テレプレゼンスロボットによる自律化が与える遠隔操作者への影響調査",
         "English": "Influence Evaluation on Remote Operator by Autonomization with Semi-autonomous Telepresence Robots"
       },
@@ -427,7 +449,8 @@
       "DOI": "https://doi.org/10.11517/jsaisigtwo.2017.AGI-006_08"
     },
     {
-      "Titile": {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
         "Japanese": "随意・不随意行動に着目した半自律テレプレゼンスロボットのふるまいの印象調査",
         "English": "Impression Evaluation of Semi-autonomous Telepresence Robots Focusing on Voluntary and Involuntary Behavior"
       }, 

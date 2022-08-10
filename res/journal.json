@@ -1,7 +1,9 @@
 {
+  "UpdateDate": "2022-08-10",
   "Papers": [
     {
-      "Titile": "Is autonomation appropriate? : Semi-autonomous Telepresence Architecture by Focusing on Voluntary and Involuntary Movements", 
+      "Type": "Journal",
+      "Title": "Is autonomation appropriate? : Semi-autonomous Telepresence Architecture by Focusing on Voluntary and Involuntary Movements.", 
       "Authors": [
         {"FirstName": "Masahiko", "LastName": "Osawa" },
         {"FirstName": "Kohei", "LastName": "Okuoka" },
@@ -17,9 +19,10 @@
       "Lang": "English"
     },
     {
-      "Titile": {
+      "Type": "Journal",
+      "Title": {
         "Japanese": "遠隔操作と自律操作を適応的に切り替える半自律テレプレゼンスロボットアーキテクチャ", 
-        "English": "Semi-Autonomous Telepresence Robot Architecture for Adaptively Switching between Remote and Autonomous Operation"
+        "English": "Semi-Autonomous Telepresence Robot Architecture for Adaptively Switching between Remote and Autonomous Operation."
       },
       "Authors": [
         {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
@@ -38,14 +41,15 @@
       "Lang": "Japanese"
     },
     {
-      "Titile": "Multi-device trust transfer: Can trust be transferred among multiple devices?", 
+      "Type": "Journal",
+      "Title": "Multi-device trust transfer: Can trust be transferred among multiple devices?", 
       "Authors": [
         {"FirstName": "Kohei", "LastName": "Okuoka" },
         {"FirstName": "Kouichi", "LastName": "Enami" },
         {"FirstName": "Mitsuhiko", "LastName": "Kimoto" },
         {"FirstName": "Michita", "LastName": "Imai" }
       ],
-      "Journal": "Frontiers in Psychology ", 
+      "Journal": "Frontiers in Psychology", 
       "PublishedDate" : {"Year" : 2022, "Month" : 8, "Day" : 3},
       "DOI" : "https://doi.org/10.3389/fpsyg.2022.920844",
       "Lang": "English"
