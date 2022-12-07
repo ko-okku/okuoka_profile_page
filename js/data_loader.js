@@ -207,7 +207,7 @@ window.addEventListener('DOMContentLoaded', function(){
     }
   }
 
-  $("#LastUpdate").text(`${latest_date.getFullYear()}/${latest_date.getMonth()+1}/${latest_date.getDay()}`);
+  $("#LastUpdate").text(`${latest_date.getFullYear()}/${latest_date.getMonth()+1}/${latest_date.getDate()}`);
   
 });
 
