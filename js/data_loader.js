@@ -211,7 +211,3 @@ window.addEventListener('DOMContentLoaded', function(){
   
 });
 
-
-function getBibtex() { // Get bibtex (TBD)
-  console.log("Bibtex");
-}

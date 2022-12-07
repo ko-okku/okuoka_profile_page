@@ -44,13 +44,13 @@
           <div class="col-12">
             <div class="text-center" style="padding-top: 2rem">
               <h1 class="pub_frame text-center">Publications</h1>
+              <p>Last Update: <span id="LastUpdate"></span></p>
               <p>
                 Latest info.: <a href="https://scholar.google.co.jp/citations?user=71i3P6MAAAAJ&hl=ja">Google scholar</a>
-                <!-- &nbsp;&nbsp;Download: <a href="javascript:getBibtex();">Bibtex</a> -->
-                &nbsp;&nbsp;Last Update: <span id="LastUpdate"></span>
+                &nbsp;&nbsp;Download:<button style="margin-left: 1rem" type="button" class="btn btn-outline-dark" onclick="getBibtex();"><a id="bib_dl"></a>Bibtex</button>
               </p>                 
             </div>
-            <div class="text-center">
+            <div class="text-center" style="margin-top:2rem">
             <h3 class="h3_pub_bk">Journal</h3>
             </div>
             <ol id="journal_list"></ol>
@@ -86,5 +86,6 @@
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap-4.3.1.js"></script>
     <script src="js/data_loader.js"></script>
+    <script src="js/reference_manager.js"></script>
   </body>
 </html>

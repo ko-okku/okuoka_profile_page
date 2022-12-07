@@ -1,5 +1,5 @@
 {
-  "UpdateDate": "2022-08-10",
+  "UpdateDate": "2022-12-08",
   "Papers": [
     {
       "Type": "Journal",
@@ -52,6 +52,24 @@
       "Journal": "Frontiers in Psychology", 
       "PublishedDate" : {"Year" : 2022, "Month" : 8, "Day" : 3},
       "DOI" : "https://doi.org/10.3389/fpsyg.2022.920844",
+      "Lang": "English"
+    },
+    {
+      "Type": "Journal",
+      "Title": "Q-Mapping: Learning User-Preferred Operation Mappings With Operation-Action Value Function", 
+      "Authors": [
+        {"FirstName": "Riki", "LastName": "Satogata" },
+        {"FirstName": "Mitsuhiko", "LastName": "Kimoto" },
+        {"FirstName": "Yosuke", "LastName": "Fukuchi" },
+        {"FirstName": "Kohei", "LastName": "Okuoka" },
+        {"FirstName": "Michita", "LastName": "Imai" }
+      ],
+      "Journal": "IEEE Transactions on Human-Machine Systems", 
+      "Volume": 52, 
+      "Number": 6, 
+      "Pages": "1090-1102",
+      "PublishedDate" : {"Year" : 2022, "Month" : 9, "Day" : 26},
+      "DOI" : "https://doi.org/10.1109/THMS.2022.3207372",
       "Lang": "English"
     }
   ]
