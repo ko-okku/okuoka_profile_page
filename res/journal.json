@@ -50,6 +50,7 @@
         {"FirstName": "Michita", "LastName": "Imai" }
       ],
       "Journal": "Frontiers in Psychology", 
+      "Volume": 13,
       "PublishedDate" : {"Year" : 2022, "Month" : 8, "Day" : 3},
       "DOI" : "https://doi.org/10.3389/fpsyg.2022.920844",
       "Lang": "English"
@@ -70,6 +71,25 @@
       "Pages": "1090-1102",
       "PublishedDate" : {"Year" : 2022, "Month" : 9, "Day" : 26},
       "DOI" : "https://doi.org/10.1109/THMS.2022.3207372",
+      "Lang": "English"
+    },
+    {
+      "Type": "Journal",
+      "Title": "Mask and Cloze: Automatic Open Cloze Question Generation Using a Masked Language Model", 
+      "Authors": [
+        {"FirstName": "Shoya", "LastName": "Matsumori" },
+        {"FirstName": "Kohei", "LastName": "Okuoka" },
+        {"FirstName": "Ryoichi", "LastName": "Shibata" },
+        {"FirstName": "Minami", "LastName": "Inoue" },
+        {"FirstName": "Yosuke", "LastName": "Fukuchi" },
+        {"FirstName": "Michita", "LastName": "Imai" }
+      ],
+      "Journal": "IEEE Access", 
+      "Volume": 11, 
+      "Number": 6, 
+      "Pages": "9835-9850",
+      "PublishedDate" : {"Year" : 2023, "Month" : 1, "Day" : 23},
+      "DOI" : "https://doi.org/10.1109/ACCESS.2023.3239005",
       "Lang": "English"
     }
   ]
