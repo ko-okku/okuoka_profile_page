@@ -1,6 +1,28 @@
 {
-  "UpdateDate": "2022-12-08",
+  "UpdateDate": "2024-08-07",
   "Papers": [
+    {
+      "Type": "InternationalConference",
+      "Title": "Influence of Agent Embodiment on Interaction in Product Recommendation", 
+      "Authors": [
+        {"FirstName": "Ryosuke", "LastName": "Kawashima" },
+        {"FirstName": "Saya", "LastName": "Todome" },
+        {"FirstName": "Kohei", "LastName": "Okuoka" },
+        {"FirstName": "Takuya", "LastName": "Iwamoto" },
+        {"FirstName": "Jun", "LastName": "Baba" },
+        {"FirstName": "Daisuke", "LastName": "Endo" },
+        {"FirstName": "Akihiro", "LastName": "Miyata" },
+        {"FirstName": "Masahiko", "LastName": "Osawa" }
+      ],
+      "PresentationStyle": "Oral",
+      "BookTitle": "Proceedings of The 24th International Symposium on Advanced Intelligent Systems",
+      "ConferenceShort": "ISIS2023",
+      "Venue": "Kimdaejung Convention Center",
+      "City" : "Gwangju",
+      "Country": "Korea",
+      "PublishedDate" : {"Year" : 2023, "Month" : 12, "Day" : 9},
+      "Lang": "English"
+    },
     {
       "Type": "InternationalConference",
       "Title": "Semi-Autonomous Telepresence Robot for Adaptively Switching Operation using Inhibition and Disinhibition Mechanism", 
@@ -98,7 +120,7 @@
       "Lang": "English"
     },
     {
-      "Title": "Advantage Mapping: LearningOperation Mapping for User-PreferredManipulation by Extracting Sceneswith Advantage Function", 
+      "Title": "Advantage Mapping: Learning Operation Mapping for User-Preferred Manipulation by Extracting Sceneswith Advantage Function", 
       "Authors": [
         {"FirstName": "Rintaro" , "LastName": "Hasegawa" },
         {"FirstName": "Yosuke" , "LastName": "Fukuchi" },
@@ -114,10 +136,11 @@
       "Pages": "95-103",
       "PublishedDate" : {"Year" : 2022, "Month" : 12, "Day" : 7},
       "DOI" : "https://doi.org/10.1145/3527188.3561917",
-      "Lang": "English"
+      "Lang": "English",
+      "Note": "Best Paper Award"
     },
     {
-      "Title": "VISTURE: A System for Video-BasedGesture and Speech Generation byRobots", 
+      "Title": "VISTURE: A System for Video-Based Gesture and Speech Generation by Robots", 
       "Authors": [
         {"FirstName": "Kaon" , "LastName": "Shimoyama" },
         {"FirstName": "Kohei", "LastName": "Okuoka" },

@@ -147,12 +147,18 @@ function format_publish(data) {
     }
   }
 
-
+  // DOI
   if("DOI" in data) {
-    text += `<a href="${data.DOI}">${data.DOI}</a>`;
-  } else {
-    text = text.slice(0, -2); // Remove comma
+    text += `<a href="${data.DOI}">${data.DOI}</a>, `;
   }
+
+  text = text.slice(0, -2); // Remove comma
+
+  // Note
+  if ("Note" in data) {
+    text += ` <b>(${data.Note})</b>`;
+  }
+
   return text + ".";
 }
 

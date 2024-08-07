@@ -109,6 +109,11 @@ function convert_bib(paper, jmode, paper_count) {
     }
   }
 
+  // note
+  if ("Note" in paper) {
+    text += "  note={" + paper.Note + "},\n";
+  }
+
   text = text.slice(0, -2); // 最後のカンマを削除
   text += "\n}";
   return text;

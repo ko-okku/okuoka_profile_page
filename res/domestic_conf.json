@@ -1,6 +1,399 @@
 {
-  "UpdateDate": "2022-08-10",
+  "UpdateDate": "2024-08-07",
   "Papers": [
+    {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
+        "Japanese": "大規模言語モデルを用いたインタビューロボットの研究",
+        "English": ""
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "芹奈", "LastName": "三宅" }, "English": {"FirstName": "Serina", "LastName": "Miyake" }},
+        {"Japanese": {"FirstName": "彩乃", "LastName": "河原" }, "English": {"FirstName": "Ayano", "LastName": "Kawara" }},
+        {"Japanese": {"FirstName": "香音", "LastName": "下山" }, "English": {"FirstName": "Kaon", "LastName": "Shimoyama" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "充彦", "LastName": "木本" }, "English": {"FirstName": "Mitsuhiko", "LastName": "Kimoto" }},
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }}
+      ],
+      "PresentationStyle": "Oral",
+      "BookTitle": {
+        "Japanese": "情報処理学会 第86回全国大会",
+        "English": ""
+      },
+      "Venue": "神奈川大学 横浜キャンパス",
+      "City": "神奈川",
+      "Number": 4,
+      "Page": "47-48",
+      "PresentationID": "2ZE-01",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2024, "Month" : 3, "Day" : 15}
+    },
+    {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
+        "Japanese": "記号処理アーキテクチャを大規模言語モデルで再現するための方法論：自然言語とプログラミング言語のプロンプトとしての比較",
+        "English": ""
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "令旺", "LastName": "長原" }, "English": {"FirstName": "Reo", "LastName": "Nagahara" }},
+        {"Japanese": {"FirstName": "愛結", "LastName": "飯田" }, "English": {"FirstName": "Serina", "LastName": "Miyake" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "隆司", "LastName": "大森" }, "English": {"FirstName": "Takashi", "LastName": "Omori" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }}
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": {
+        "Japanese": "HAIシンポジウム2024",
+        "English": ""
+      },
+      "Venue": "静岡大学 浜松キャンパス",
+      "City" : "静岡",
+      "PresentationID": "P-71",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2024, "Month" : 3, "Day" : 6}
+    }, 
+    {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
+        "Japanese": "大規模言語モデルを用いたメンタリングシステムの開発に向けて",
+        "English": ""
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "海晟", "LastName": "大美浪" }, "English": {"FirstName": "Kaisei", "LastName": "Ominami" }},
+        {"Japanese": {"FirstName": "匠", "LastName": "佐藤" }, "English": {"FirstName": "Takumi", "LastName": "Sato" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "康輔", "LastName": "佐々木" }, "English": {"FirstName": "Kosuke", "LastName": "Sasaki" }},
+        {"Japanese": {"FirstName": "昌和", "LastName": "森口" }, "English": {"FirstName": "Masakazu", "LastName": "Moriguchi" }},
+        {"Japanese": {"FirstName": "尚志", "LastName": "野田" }, "English": {"FirstName": "Hisashi", "LastName": "Noda" }},
+        {"Japanese": {"FirstName": "隆司", "LastName": "大森" }, "English": {"FirstName": "Takashi", "LastName": "Omori" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }}
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": {
+        "Japanese": "HAIシンポジウム2024",
+        "English": ""
+      },
+      "Venue": "静岡大学 浜松キャンパス",
+      "City" : "静岡",
+      "PresentationID": "P-52",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2024, "Month" : 3, "Day" : 6}
+    }, 
+    {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
+        "Japanese": "BDIモデルベース認知アーキテクチャを用いた言外の意味を考慮したインタラクションに向けた検討",
+        "English": ""
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "友", "LastName": "大須賀" }, "English": {"FirstName": "Yuu", "LastName": "Osuga" }},
+        {"Japanese": {"FirstName": "愛結", "LastName": "飯田" }, "English": {"FirstName": "Serina", "LastName": "Miyake" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }}
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": {
+        "Japanese": "HAIシンポジウム2024",
+        "English": ""
+      },
+      "Venue": "静岡大学 浜松キャンパス",
+      "City" : "静岡",
+      "PresentationID": "P-77",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2024, "Month" : 3, "Day" : 6}
+    },  
+    {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
+        "Japanese": "意図を読むAIの実現に向けて: 対話型生成AIと他者モデルの統合を例に",
+        "English": ""
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "愛結", "LastName": "飯田" }, "English": {"FirstName": "Serina", "LastName": "Miyake" }},
+        {"Japanese": {"FirstName": "将樹", "LastName": "阿部" }, "English": {"FirstName": "Masaki", "LastName": "Abe" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "聡子", "LastName": "福田" }, "English": {"FirstName": "Satoko", "LastName": "Fukuda" }},
+        {"Japanese": {"FirstName": "隆司", "LastName": "大森" }, "English": {"FirstName": "Takashi", "LastName": "Omori" }},
+        {"Japanese": {"FirstName": "亮一", "LastName": "中島" }, "English": {"FirstName": "Ryoichi", "LastName": "Nakashima" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }}
+      ],
+      "PresentationStyle": "Oral",
+      "BookTitle": {
+        "Japanese": "HAIシンポジウム2024",
+        "English": ""
+      },
+      "Venue": "静岡大学 浜松キャンパス",
+      "City" : "静岡",
+      "PresentationID": "G-28",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2024, "Month" : 3, "Day" : 6},
+      "Note": "優秀論文賞"
+    },  
+    {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
+        "Japanese": "大規模言語モデルを使用したインタビューシステム",
+        "English": ""
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "芹奈", "LastName": "三宅" }, "English": {"FirstName": "Serina", "LastName": "Miyake" }},
+        {"Japanese": {"FirstName": "彩乃", "LastName": "河原" }, "English": {"FirstName": "Ayano", "LastName": "Kawara" }},
+        {"Japanese": {"FirstName": "香音", "LastName": "下山" }, "English": {"FirstName": "Kaon", "LastName": "Shimoyama" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "充彦", "LastName": "木本" }, "English": {"FirstName": "Mitsuhiko", "LastName": "Kimoto" }},
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }}
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": {
+        "Japanese": "HAIシンポジウム2024",
+        "English": ""
+      },
+      "Venue": "静岡大学 浜松キャンパス",
+      "City" : "静岡",
+      "PresentationID": "P-9",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2024, "Month" : 3, "Day" : 6}
+    }, 
+    {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
+        "Japanese": "メンタリングにおける相談者への問いかけ文生成システムのメンターに対する影響の評価",
+        "English": ""
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "海晟", "LastName": "大美浪" }, "English": {"FirstName": "Kaisei", "LastName": "Ominami" }},
+        {"Japanese": {"FirstName": "昇太", "LastName": "田足井" }, "English": {"FirstName": "Shota", "LastName": "Tatarai" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "康輔", "LastName": "佐々木" }, "English": {"FirstName": "Kosuke", "LastName": "Sasaki" }},
+        {"Japanese": {"FirstName": "昌和", "LastName": "森口" }, "English": {"FirstName": "Masakazu", "LastName": "Moriguchi" }},
+        {"Japanese": {"FirstName": "尚志", "LastName": "野田" }, "English": {"FirstName": "Hisashi", "LastName": "Noda" }},
+        {"Japanese": {"FirstName": "隆司", "LastName": "大森" }, "English": {"FirstName": "Takashi", "LastName": "Omori" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }}
+      ],
+      "PresentationStyle": "Oral",
+      "BookTitle": {
+        "Japanese": "信学技報",
+        "English": "IEICE Technical Report"
+      },
+      "ConferenceName": "電子情報通信学会教育工学(ET)研究会",
+      "Venue": "京都大学 吉田キャンパス",
+      "City": "京都",
+      "Volume": 123,
+      "Number": 348,
+      "Page": "5-9",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2024, "Month" : 1, "Day" : 20}
+    },
+    {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
+        "Japanese": "ChatGPTを用いた認知アーキテクチャの構想 ー ユーザーの発話と発話意図に乖離があるケースを例に",
+        "English": ""
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "愛結", "LastName": "飯田" }, "English": {"FirstName": "Serina", "LastName": "Miyake" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "聡子", "LastName": "福田" }, "English": {"FirstName": "Satoko", "LastName": "Fukuda" }},
+        {"Japanese": {"FirstName": "隆司", "LastName": "大森" }, "English": {"FirstName": "Takashi", "LastName": "Omori" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }}
+      ],
+      "PresentationStyle": "Oral",
+      "BookTitle": {
+        "Japanese": "情報処理学会 第205回HCI・第80回UBI合同研究発表会",
+        "English": ""
+      },
+      "Venue": "淡路夢舞台国際会議場",
+      "City": "兵庫",
+      "Volume": "2023-HCI-205",
+      "Number": 16,
+      "Page": "1-8",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2023, "Month" : 11, "Day" : 21}
+    },  
+    {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
+        "Japanese": "HAIの社会実装に向けた音エージェントの研究",
+        "English": ""
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "遼介", "LastName": "川島" }, "English": {"FirstName": "Ryosuke", "LastName": "Kawashima" }},
+        {"Japanese": {"FirstName": "沙也", "LastName": "留目" }, "English": {"FirstName": "Saya", "LastName": "Todome" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "拓也", "LastName": "岩本" }, "English": {"FirstName": "Takuya", "LastName": "Iwamoto" }},
+        {"Japanese": {"FirstName": "淳", "LastName": "馬場" }, "English": {"FirstName": "Jun", "LastName": "Baba" }},
+        {"Japanese": {"FirstName": "大介", "LastName": "遠藤" }, "English": {"FirstName": "Daisuke", "LastName": "Endo" }},
+        {"Japanese": {"FirstName": "章裕", "LastName": "宮田" }, "English": {"FirstName": "Akihiro", "LastName": "Miyata" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }}
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": {
+        "Japanese": "第37回人工知能学会全国大会",
+        "English": ""
+      },
+      "Venue": "熊本城ホール",
+      "City" : "熊本",
+      "PresentationID": "4Xin1-36",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2023, "Month" : 6, "Day" : 9}
+    }, 
+    {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
+        "Japanese": "オーナーシップ認識によるヒューマン・ロボットインタラクション",
+        "English": ""
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "彩乃", "LastName": "河原" }, "English": {"FirstName": "Ayano", "LastName": "Kawara" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "麟太郎", "LastName": "長谷川" }, "English": {"FirstName": "Rintaro", "LastName": "Hasegawa" }},
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }}
+      ],
+      "PresentationStyle": "Oral",
+      "BookTitle": {
+        "Japanese": "第37回人工知能学会全国大会",
+        "English": ""
+      },
+      "Venue": "熊本城ホール",
+      "City" : "熊本",
+      "PresentationID": "2O4-GS-8-01",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2023, "Month" : 6, "Day" : 7}
+    }, 
+    {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
+        "Japanese": "肩乗りロボットの模倣動作がユーザの印象に与える影響",
+        "English": ""
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "賢人", "LastName": "弦本" }, "English": {"FirstName": "Kento", "LastName": "Tsurumoto" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "一彦", "LastName": "篠澤" }, "English": {"FirstName": "Kazuhiko", "LastName": "Shinozawa" }},
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }}
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": {
+        "Japanese": "HAIシンポジウム2023",
+        "English": ""
+      },
+      "Venue": "静岡大学 浜松キャンパス",
+      "City" : "静岡",
+      "PresentationID": "P-47",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2023, "Month" : 3, "Day" : 5},
+      "Note": "優秀ポスター発表賞"
+    }, 
+    {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
+        "Japanese": "自然言語で操作可能なサービス機器におけるユーザの意図に基づくサービス提案文生成システム",
+        "English": ""
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "翔太", "LastName": "赤堀" }, "English": {"FirstName": "Shota", "LastName": "Akahori" }},
+        {"Japanese": {"FirstName": "香音", "LastName": "下山" }, "English": {"FirstName": "Kaon", "LastName": "Shimoyama" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "充彦", "LastName": "木本" }, "English": {"FirstName": "Mitsuhiko", "LastName": "Kimoto" }},
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }}
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": {
+        "Japanese": "HAIシンポジウム2023",
+        "English": ""
+      },
+      "Venue": "静岡大学 浜松キャンパス",
+      "City" : "静岡",
+      "PresentationID": "P-37",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2023, "Month" : 3, "Day" : 5}
+    }, 
+    {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
+        "Japanese": "身体の無い音エージェントによる商品推薦の応用",
+        "English": ""
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "遼介", "LastName": "川島" }, "English": {"FirstName": "Ryosuke", "LastName": "Kawashima" }},
+        {"Japanese": {"FirstName": "沙也", "LastName": "留目" }, "English": {"FirstName": "Saya", "LastName": "Todome" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "拓也", "LastName": "岩本" }, "English": {"FirstName": "Takuya", "LastName": "Iwamoto" }},
+        {"Japanese": {"FirstName": "淳", "LastName": "馬場" }, "English": {"FirstName": "Jun", "LastName": "Baba" }},
+        {"Japanese": {"FirstName": "大介", "LastName": "遠藤" }, "English": {"FirstName": "Daisuke", "LastName": "Endo" }},
+        {"Japanese": {"FirstName": "章裕", "LastName": "宮田" }, "English": {"FirstName": "Akihiro", "LastName": "Miyata" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }}
+      ],
+      "PresentationStyle": "Oral",
+      "BookTitle": {
+        "Japanese": "情報処理学会 第85回全国大会",
+        "English": ""
+      },
+      "Venue": "電気通信大学",
+      "City": "東京",
+      "Number": 4,
+      "Page": "71-72",
+      "PresentationID": "1ZE-08",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2023, "Month" : 3, "Day" : 2}
+    }, 
+    {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
+        "Japanese": "推薦エージェントの身体が販売促進に与える影響のフィールド調査",
+        "English": "Field Study on Recommended by Agents with/without Body"
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "遼介", "LastName": "川島" }, "English": {"FirstName": "Ryosuke", "LastName": "Kawashima" }},
+        {"Japanese": {"FirstName": "沙也", "LastName": "留目" }, "English": {"FirstName": "Saya", "LastName": "Todome" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "拓也", "LastName": "岩本" }, "English": {"FirstName": "Takuya", "LastName": "Iwamoto" }},
+        {"Japanese": {"FirstName": "淳", "LastName": "馬場" }, "English": {"FirstName": "Jun", "LastName": "Baba" }},
+        {"Japanese": {"FirstName": "大介", "LastName": "遠藤" }, "English": {"FirstName": "Daisuke", "LastName": "Endo" }},
+        {"Japanese": {"FirstName": "章裕", "LastName": "宮田" }, "English": {"FirstName": "Akihiro", "LastName": "Miyata" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }}
+      ],
+      "PresentationStyle": "Oral",
+      "BookTitle": {
+        "Japanese": "信学技報",
+        "English": "IEICE Technical Report"
+      },
+      "ConferenceName": "電子情報通信学会クラウドネットワークロボット(CNR)研究会",
+      "Venue": "北海道大学",
+      "City": "北海道",
+      "Volume": 122,
+      "Number": 193,
+      "Page": "1-6",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2022, "Month" : 9, "Day" : 22}
+    },
+    {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
+        "Japanese": "マスク言語モデルを利用したOpen Cloze問題の自動生成",
+        "English": ""
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "匠哉", "LastName": "松森" }, "English": {"FirstName": "Shoya", "LastName": "Matsumori" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "遼一", "LastName": "柴田" }, "English": {"FirstName": "Ryoichi", "LastName": "Shibata" }},
+        {"Japanese": {"FirstName": "南", "LastName": "井上" }, "English": {"FirstName": "Minami", "LastName": "Inoue" }},
+        {"Japanese": {"FirstName": "哲平", "LastName": "吉野" }, "English": {"FirstName": "Teppei", "LastName": "Yoshino" }},
+        {"Japanese": {"FirstName": "庸介", "LastName": "福地" }, "English": {"FirstName": "Yosuke", "LastName": "Fukuchi" }},
+        {"Japanese": {"FirstName": "透", "LastName": "岩沢" }, "English": {"FirstName": "Toru", "LastName": "Iwasawa" }},
+        {"Japanese": {"FirstName": "倫太", "LastName": "今井" }, "English": {"FirstName": "Michita", "LastName": "Imai" }}
+      ],
+      "PresentationStyle": "Oral",
+      "BookTitle": {
+        "Japanese": "第36回人工知能学会全国大会",
+        "English": ""
+      },
+      "Venue": "京都国際会館",
+      "City" : "京都",
+      "PresentationID": "3N4-GS-10-04",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2022, "Month" : 6, "Day" : 16}
+    }, 
     {
       "Type": "DomesticConference", 
  	 	  "Title": {
@@ -51,7 +444,8 @@
       "Number": 363,
       "Page": "7-11",
       "Lang": "Japanese",
-      "PublishedDate" : {"Year" : 2022, "Month" : 1, "Day" : 28}
+      "PublishedDate" : {"Year" : 2022, "Month" : 1, "Day" : 28},
+      "Note": "HCS研究会賞"
     },
     {
       "Type": "DomesticConference", 
