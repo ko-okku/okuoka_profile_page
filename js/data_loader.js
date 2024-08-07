@@ -65,23 +65,6 @@ function format_publish(data) {
   var text = "";
   var isFuture = false;
 
-  // Date
-  if ("PublishedDate" in data) {
-    let date = new Date(data.PublishedDate.Year, data.PublishedDate.Month - 1, data.PublishedDate.Day);
-    let now = new Date();
-    if (now < date) { // Future publish
-      console.log("Future data");
-      return null;
-    }
-    if (data.Lang == "Japanese" && $("#title").data("lang") == "Japanese"){
-      text += `${date.getFullYear()}年${date.getMonth() + 1}月, `;
-    } else {
-      const months = ["January", "February", "March", "April", "May", "June", 
-        "July", "August", "September", "October", "November", "December"];
-      text += `${months[date.getMonth()]} ${date.getFullYear()}, `;
-    }
-  }
-
   // Publisher
   var publisher;
   if("Journal" in data) {
@@ -107,6 +90,27 @@ function format_publish(data) {
     }
   } else {
     text += `${publisher}, `;
+  }
+
+  // Date
+  if ("PublishedDate" in data) {
+    let date = new Date(data.PublishedDate.Year, data.PublishedDate.Month - 1, data.PublishedDate.Day);
+    let now = new Date();
+    if (now < date) { // Future publish
+      console.log("Future data");
+      return null;
+    }
+
+
+    if (data.Lang == "Japanese" && $("#title").data("lang") == "Japanese"){
+      // text += `${date.getFullYear()}年${date.getMonth() + 1}月, `; // with month
+      text += `${date.getFullYear()}年, `; // only year
+    } else {
+      // const months = ["January", "February", "March", "April", "May", "June", 
+      //   "July", "August", "September", "October", "November", "December"];
+      // text += `${months[date.getMonth()]} ${date.getFullYear()}, `; // with month
+      text += `${date.getFullYear()}, `; // only year
+    }
   }
 
   // Pages
