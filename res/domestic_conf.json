@@ -1,6 +1,171 @@
 {
-  "UpdateDate": "2024-08-07",
+  "UpdateDate": "2025-06-23",
   "Papers": [
+    {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
+        "Japanese": "Human-Agent Interactionによって人と人との関係性をより良くするコミュニティAIの構想",
+        "English": "Designing Community AI to Enhance Human Relationships through Human-Agent Interaction"
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "萌", "LastName": "松木" }, "English": {"FirstName": "Moe", "LastName": "Matsuki" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "邦将", "LastName": "川崎" }, "English": {"FirstName": "Kunimasa", "LastName": "Kawasaki" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }}
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": {
+        "Japanese": "HAIシンポジウム2025",
+        "English": ""
+      },
+      "Venue": "近畿大学東大阪キャンパス",
+      "City": "大阪",
+      "PresentationID": "P2-16",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2025, "Month" : 3, "Day" : 1}
+    },
+    {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
+        "Japanese": "トモニゴー：科学コミュニケーションを応用したHAI体験型展示",
+        "English": "TOMONI-GO : An HAI Exhibition with Science Communication"
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "一斗", "LastName": "土橋" }, "English": {"FirstName": "Kazuto", "LastName": "Dobashi" }},
+        {"Japanese": {"FirstName": "光希", "LastName": "馬場" }, "English": {"FirstName": "Mitsuki", "LastName": "Baba" }},
+        {"Japanese": {"FirstName": "翔太", "LastName": "新井" }, "English": {"FirstName": "Shota", "LastName": "Arai" }},
+        {"Japanese": {"FirstName": "葉月", "LastName": "田中" }, "English": {"FirstName": "Hazuki", "LastName": "Tanaka" }},
+        {"Japanese": {"FirstName": "沙也", "LastName": "留目" }, "English": {"FirstName": "Saya", "LastName": "Todome" }},
+        {"Japanese": {"FirstName": "真由", "LastName": "菊池" }, "English": {"FirstName": "Mayu", "LastName": "Kikuchi" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "龍", "LastName": "宮田" }, "English": {"FirstName": "Ryu", "LastName": "Miyata" }},
+        {"Japanese": {"FirstName": "邦将", "LastName": "川崎" }, "English": {"FirstName": "Kunimasa", "LastName": "Kawasaki" }},
+        {"Japanese": {"FirstName": "北斗", "LastName": "徳永" }, "English": {"FirstName": "Hokuto", "LastName": "Tokunaga" }},
+        {"Japanese": {"FirstName": "健二郎", "LastName": "丸山" }, "English": {"FirstName": "Kenjiro", "LastName": "Maruyama" }},
+        {"Japanese": {"FirstName": "章平", "LastName": "白井" }, "English": {"FirstName": "Shohei", "LastName": "Shirai" }},
+        {"Japanese": {"FirstName": "剛", "LastName": "正木" }, "English": {"FirstName": "Takeshi", "LastName": "Masaki" }},
+        {"Japanese": {"FirstName": "菜々子", "LastName": "鈴木" }, "English": {"FirstName": "Nanako", "LastName": "Suzuki" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }}
+      ],
+      "PresentationStyle": "Oral",
+      "BookTitle": {
+        "Japanese": "HAIシンポジウム2025",
+        "English": ""
+      },
+      "Venue": "近畿大学東大阪キャンパス",
+      "City": "大阪",
+      "PresentationID": "G-31",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2025, "Month" : 3, "Day" : 1}
+    },
+    {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
+        "Japanese": "学習者に応じて対話戦略を選択する探究学習のためのメンタリングシステム",
+        "English": "A Mentoring System for Inquiry-Based Learning that Selects Dialogue Strategies According to Learners"
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "日南乃", "LastName": "古賀" }, "English": {"FirstName": "Hinano", "LastName": "Koga" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "海晟", "LastName": "大美浪" }, "English": {"FirstName": "Kaisei", "LastName": "Ominami" }},
+        {"Japanese": {"FirstName": "匠", "LastName": "佐藤" }, "English": {"FirstName": "Takumi", "LastName": "Sato" }},
+        {"Japanese": {"FirstName": "康輔", "LastName": "佐々木" }, "English": {"FirstName": "Kosuke", "LastName": "Sasaki" }},
+        {"Japanese": {"FirstName": "昌和", "LastName": "森口" }, "English": {"FirstName": "Masakazu", "LastName": "Moriguchi" }},
+        {"Japanese": {"FirstName": "尚志", "LastName": "野田" }, "English": {"FirstName": "Hisashi", "LastName": "Noda" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }}
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": {
+        "Japanese": "HAIシンポジウム2025",
+        "English": ""
+      },
+      "Venue": "近畿大学東大阪キャンパス",
+      "City": "大阪",
+      "PresentationID": "P1-41",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2025, "Month" : 2, "Day" : 28}
+    },
+    {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
+        "Japanese": "多様なシチュエーションにおける意図を読む対話型生成AIの評価",
+        "English": "Evaluation of Conversational Generative AI for Reading Intentions in Various Situations"
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "愛結", "LastName": "飯田" }, "English": {"FirstName": "Ayu", "LastName": "Iida" }},
+        {"Japanese": {"FirstName": "令旺", "LastName": "長原" }, "English": {"FirstName": "Reo", "LastName": "Nagahara" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "聡子", "LastName": "福田" }, "English": {"FirstName": "Satoko", "LastName": "Fukuda" }},
+        {"Japanese": {"FirstName": "隆司", "LastName": "大森" }, "English": {"FirstName": "Takashi", "LastName": "Omori" }},
+        {"Japanese": {"FirstName": "亮一", "LastName": "中島" }, "English": {"FirstName": "Ryoichi", "LastName": "Nakashima" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }}
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": {
+        "Japanese": "日本認知科学会第41回大会",
+        "English": ""
+      },
+      "Venue": "東京大学本郷キャンパス",
+      "City": "東京",
+      "PresentationID": "P-3-7A",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2024, "Month" : 10, "Day" : 14}
+    },
+    {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
+        "Japanese": "「準」自然言語エージェントを用いた寄付行動の促進",
+        "English": "Facilitating donation behavior using semi-natural language agent"
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "一樹", "LastName": "関" }, "English": {"FirstName": "Kazuki", "LastName": "Seki" }},
+        {"Japanese": {"FirstName": "俊輝", "LastName": "大西" }, "English": {"FirstName": "Toshiki", "LastName": "Onishi" }},
+        {"Japanese": {"FirstName": "健朗", "LastName": "呉" }, "English": {"FirstName": "Kenro", "LastName": "Go" }},
+        {"Japanese": {"FirstName": "峻一", "LastName": "木下" }, "English": {"FirstName": "Shunichi", "LastName": "Kinoshita"}},
+        {"Japanese": {"FirstName": "聡子", "LastName": "福田" }, "English": {"FirstName": "Satoko", "LastName": "Fukuda" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "章裕", "LastName": "宮田" }, "English": {"FirstName": "Akihiro", "LastName": "Miyata" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }}
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": {
+        "Japanese": "日本認知科学会第41回大会",
+        "English": ""
+      },
+      "Venue": "東京大学本郷キャンパス",
+      "City": "東京",
+      "PresentationID": "P-2-40",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2024, "Month" : 10, "Day" : 13}
+    },
+    {
+      "Type": "DomesticConference", 
+ 	 	  "Title": {
+        "Japanese": "探究学習におけるメンタリングの自動化に向けたBDIモデルベース対話アーキテクチャの有用性の検討",
+        "English": "Investigating the usefulness of the BDI model-based dialogue architecture for automating mentoring in inquiry-based learning"
+      },
+      "Authors": [
+        {"Japanese": {"FirstName": "日南乃", "LastName": "古賀" }, "English": {"FirstName": "Hinano", "LastName": "Koga" }},
+        {"Japanese": {"FirstName": "匠", "LastName": "佐藤" }, "English": {"FirstName": "Takumi", "LastName": "Sato" }},
+        {"Japanese": {"FirstName": "海晟", "LastName": "大美浪" }, "English": {"FirstName": "Kaisei", "LastName": "Ominami" }},
+        {"Japanese": {"FirstName": "愛結", "LastName": "飯田" }, "English": {"FirstName": "Ayu", "LastName": "Iida" }},
+        {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
+        {"Japanese": {"FirstName": "康輔", "LastName": "佐々木" }, "English": {"FirstName": "Kosuke", "LastName": "Sasaki" }},
+        {"Japanese": {"FirstName": "尚志", "LastName": "野田" }, "English": {"FirstName": "Hisashi", "LastName": "Noda" }},
+        {"Japanese": {"FirstName": "昌和", "LastName": "森口" }, "English": {"FirstName": "Masakazu", "LastName": "Moriguchi" }},
+        {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }}
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": {
+        "Japanese": "日本認知科学会第41回大会",
+        "English": ""
+      },
+      "Venue": "東京大学本郷キャンパス",
+      "City": "東京",
+      "PresentationID": "P-1-62",
+      "Lang": "Japanese",
+      "PublishedDate" : {"Year" : 2024, "Month" : 10, "Day" : 12}
+    },
     {
       "Type": "DomesticConference", 
  	 	  "Title": {
@@ -36,7 +201,7 @@
       },
       "Authors": [
         {"Japanese": {"FirstName": "令旺", "LastName": "長原" }, "English": {"FirstName": "Reo", "LastName": "Nagahara" }},
-        {"Japanese": {"FirstName": "愛結", "LastName": "飯田" }, "English": {"FirstName": "Serina", "LastName": "Miyake" }},
+        {"Japanese": {"FirstName": "愛結", "LastName": "飯田" }, "English": {"FirstName": "Ayu", "LastName": "Iida" }},
         {"Japanese": {"FirstName": "耕平", "LastName": "奥岡" }, "English": {"FirstName": "Kohei", "LastName": "Okuoka" }},
         {"Japanese": {"FirstName": "隆司", "LastName": "大森" }, "English": {"FirstName": "Takashi", "LastName": "Omori" }},
         {"Japanese": {"FirstName": "正彦", "LastName": "大澤" }, "English": {"FirstName": "Masahiko", "LastName": "Osawa" }}

@@ -1,6 +1,95 @@
 {
-  "UpdateDate": "2024-08-07",
+  "UpdateDate": "2025-06-23",
   "Papers": [
+    {
+      "Type": "InternationalConference",
+      "Title": "Semantic Babbling: Interactive Baby Robot System Using Large Language Models", 
+      "Authors": [
+        {"FirstName": "Serina", "LastName": "Miyake" },
+        {"FirstName": "Ryuki", "LastName": "Matsuoka" },
+        {"FirstName": "Kohei", "LastName": "Okuoka" },
+        {"FirstName": "Takuto", "LastName": "Akiyoshi" },
+        {"FirstName": "Hidenobu", "LastName": "Sumioka" },
+        {"FirstName": "Masahiro", "LastName": "Shiomi" },
+        {"FirstName": "Michita", "LastName": "Imai" }
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": "2025 20th ACM/IEEE International Conference on Human-Robot Interaction",
+      "ConferenceShort": "HRI2025",
+      "Venue": "Melbourne Convention Center",
+      "City" : "Melbourne",
+      "Country": "Australia",
+      "Pages": "1493-1497",
+      "PublishedDate" : {"Year" : 2025, "Month" : 3, "Day" : 6},
+      "DOI" : "https://doi.org/10.1109/hri61500.2025.10973840",
+      "Lang": "English"
+    },
+    {
+      "Type": "InternationalConference",
+      "Title": "RelBot: Building a Balanced Relationship From Conversation Content", 
+      "Authors": [
+        {"FirstName": "Yoshinari", "LastName": "Onodera" },
+        {"FirstName": "Hikaru", "LastName": "Matsuzaki" },
+        {"FirstName": "Ayano", "LastName": "Kawara" },
+        {"FirstName": "Kohei", "LastName": "Okuoka" },
+        {"FirstName": "Mitsuhiko", "LastName": "Kimoto" },
+        {"FirstName": "Michita", "LastName": "Imai" }
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": "2025 20th ACM/IEEE International Conference on Human-Robot Interaction",
+      "ConferenceShort": "HRI2025",
+      "Venue": "Melbourne Convention Center",
+      "City" : "Melbourne",
+      "Country": "Australia",
+      "Pages": "1524-1528",
+      "PublishedDate" : {"Year" : 2025, "Month" : 3, "Day" : 5},
+      "DOI" : "https://doi.org/10.1109/hri61500.2025.10973932",
+      "Lang": "English"
+    },
+    {
+      "Type": "InternationalConference",
+      "Title": "RoDiL: Giving Route Directions with Landmarks by Robots", 
+      "Authors": [
+        {"FirstName": "Kanta", "LastName": "Tachikawa" },
+        {"FirstName": "Shota", "LastName": "Akahori" },
+        {"FirstName": "Kohei", "LastName": "Okuoka" },
+        {"FirstName": "Mitsuhiko", "LastName": "Kimoto" },
+        {"FirstName": "Michita", "LastName": "Imai" }
+      ],
+      "PresentationStyle": "Poster",
+      "BookTitle": "Proceedings of the 17th International Conference on Agents and Artificial Intelligence",
+      "ConferenceShort": "ICAART2025",
+      "Venue": "Vila Galé Porto hotel",
+      "City" : "Porto",
+      "Country": "Portugal",
+      "Volume": "1",
+      "Pages": "298-309",
+      "PublishedDate" : {"Year" : 2025, "Month" : 2, "Day" : 24},
+      "DOI" : "https://doi.org/10.5220/0013131300003890",
+      "Lang": "English"
+    },
+    {
+      "Type": "InternationalConference",
+      "Title": "Integrating Large Language Model and Mental Model of Others: Studies on Dialogue Communication Based on Implicature", 
+      "Authors": [
+        {"FirstName": "Ayu", "LastName": "Iida" },
+        {"FirstName": "Kohei", "LastName": "Okuoka" },
+        {"FirstName": "Satoko", "LastName": "Fukuda" },
+        {"FirstName": "Takashi", "LastName": "Omori" },
+        {"FirstName": "Ryoichi", "LastName": "Nakashima" },
+        {"FirstName": "Masahiko", "LastName": "Osawa" }
+      ],
+      "PresentationStyle": "Oral",
+      "BookTitle": "Proceedings of the 12th International Conference on Human-Agent Interaction",
+      "ConferenceShort": "HAI2024",
+      "Venue": "Swansea University, Singleton Park Campus",
+      "City" : "Swansea",
+      "Country": "UK",
+      "Pages": "260-269",
+      "PublishedDate" : {"Year" : 2024, "Month" : 11, "Day" : 24},
+      "DOI" : "https://doi.org/10.1145/3687272.3688303",
+      "Lang": "English"
+    },
     {
       "Type": "InternationalConference",
       "Title": "Influence of Agent Embodiment on Interaction in Product Recommendation", 
